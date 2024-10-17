@@ -17,8 +17,8 @@ This mini-project focuses on solving a numerical minimization problem using Pyth
 To run this project locally, clone the repository and install the required dependencies:
 
 ```bash
-git clone [repository-url]
-cd [project-directory]
+git clone [https://github.com/ChaimaBalti/Numerical-Optimization]
+cd [Numerical-Optimization]
 pip install -r requirements.txt
 ```
 
